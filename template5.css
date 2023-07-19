@@ -119,25 +119,17 @@
 }
 .year{
     width: 17.4%;
-    /* margin: 0; */
     padding-left: 16px;
 }
 .title{
-    /* width: 189px; */
     width: 38.5%;
-    /* margin: 0; */
 }
 .where{
-    /* width: 210px; */
     width: 46%;
-    /* margin: 0; */
 }
 .th{
     text-align: start;
     padding: 8px;
-    /* display: flex; */
-    /* justify-content: flex-start; */
-    /* flex-direction: ; */
     line-height: 21px;
 }
 .yearHead{
@@ -149,7 +141,6 @@ td{
     flex-direction: column !important;
     align-items: flex-start;
     font-family: Verdana,sans-serif;
-    /* line-height: 1.6; */
     line-height: 22.5px;
 }
 tr{
@@ -165,7 +156,6 @@ tr{
 .grayParaDiv{
     text-align: center;
     margin-top: 135px;
-    /* line-height: 23px; */
 }
 .grayPara{
     padding: 7.8px;
@@ -183,9 +173,7 @@ tr{
 }
 .greenHead{
     width: 100%;
-    /* padding: 0 24px; */
     color: white;
-    /* display: flex; */
 }
 .greenPara{
     font-family: Verdana,sans-serif;
