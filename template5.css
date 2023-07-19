@@ -36,6 +36,7 @@
     width: 100%;
 }
 .option{
+    text-decoration: none;
     padding: 16px;
     cursor: pointer;
 }
